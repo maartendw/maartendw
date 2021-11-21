@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maartendw
+- 👀 I’m interested in all things web, data science, machine learning
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: maarten.de.winter1@gmail.com
